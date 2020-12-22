@@ -1,0 +1,20 @@
+C:\Users\Thiago\source\repos\wfaLISTAENCADEADA\wfaLISTAENCADEADA\bin\Debug\wfaLISTAENCADEADA.exe.config
+C:\Users\Thiago\source\repos\wfaLISTAENCADEADA\wfaLISTAENCADEADA\bin\Debug\wfaLISTAENCADEADA.exe
+C:\Users\Thiago\source\repos\wfaLISTAENCADEADA\wfaLISTAENCADEADA\bin\Debug\wfaLISTAENCADEADA.pdb
+C:\Users\Thiago\source\repos\wfaLISTAENCADEADA\wfaLISTAENCADEADA\obj\Debug\wfaLISTAENCADEADA.csprojAssemblyReference.cache
+C:\Users\Thiago\source\repos\wfaLISTAENCADEADA\wfaLISTAENCADEADA\obj\Debug\wfaLISTAENCADEADA.Properties.Resources.resources
+C:\Users\Thiago\source\repos\wfaLISTAENCADEADA\wfaLISTAENCADEADA\obj\Debug\wfaLISTAENCADEADA.csproj.GenerateResource.cache
+C:\Users\Thiago\source\repos\wfaLISTAENCADEADA\wfaLISTAENCADEADA\obj\Debug\wfaLISTAENCADEADA.csproj.CoreCompileInputs.cache
+C:\Users\Thiago\source\repos\wfaLISTAENCADEADA\wfaLISTAENCADEADA\obj\Debug\wfaLISTAENCADEADA.exe
+C:\Users\Thiago\source\repos\wfaLISTAENCADEADA\wfaLISTAENCADEADA\obj\Debug\wfaLISTAENCADEADA.pdb
+C:\Users\Thiago\source\repos\wfaLISTAENCADEADA\wfaLISTAENCADEADA\obj\Debug\wfaLISTAENCADEADA.Form1.resources
+C:\Users\pedro\OneDrive\Área de Trabalho\wfaLISTAENCADEADA\wfaLISTAENCADEADA\bin\Debug\wfaLISTAENCADEADA.exe.config
+C:\Users\pedro\OneDrive\Área de Trabalho\wfaLISTAENCADEADA\wfaLISTAENCADEADA\bin\Debug\wfaLISTAENCADEADA.exe
+C:\Users\pedro\OneDrive\Área de Trabalho\wfaLISTAENCADEADA\wfaLISTAENCADEADA\bin\Debug\wfaLISTAENCADEADA.pdb
+C:\Users\pedro\OneDrive\Área de Trabalho\wfaLISTAENCADEADA\wfaLISTAENCADEADA\obj\Debug\wfaLISTAENCADEADA.csprojAssemblyReference.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\wfaLISTAENCADEADA\wfaLISTAENCADEADA\obj\Debug\wfaLISTAENCADEADA.Form1.resources
+C:\Users\pedro\OneDrive\Área de Trabalho\wfaLISTAENCADEADA\wfaLISTAENCADEADA\obj\Debug\wfaLISTAENCADEADA.Properties.Resources.resources
+C:\Users\pedro\OneDrive\Área de Trabalho\wfaLISTAENCADEADA\wfaLISTAENCADEADA\obj\Debug\wfaLISTAENCADEADA.csproj.GenerateResource.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\wfaLISTAENCADEADA\wfaLISTAENCADEADA\obj\Debug\wfaLISTAENCADEADA.csproj.CoreCompileInputs.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\wfaLISTAENCADEADA\wfaLISTAENCADEADA\obj\Debug\wfaLISTAENCADEADA.exe
+C:\Users\pedro\OneDrive\Área de Trabalho\wfaLISTAENCADEADA\wfaLISTAENCADEADA\obj\Debug\wfaLISTAENCADEADA.pdb
